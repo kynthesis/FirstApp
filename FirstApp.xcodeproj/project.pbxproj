@@ -11,6 +11,7 @@
 		D243229E29E555CE009182A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D243229D29E555CE009182A8 /* ContentView.swift */; };
 		D24322A029E555D0009182A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D243229F29E555D0009182A8 /* Assets.xcassets */; };
 		D24322A329E555D0009182A8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D24322A229E555D0009182A8 /* Preview Assets.xcassets */; };
+		D24322AA29E55796009182A8 /* GoodNightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24322A929E55796009182A8 /* GoodNightView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D243229D29E555CE009182A8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D243229F29E555D0009182A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D24322A229E555D0009182A8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D24322A929E55796009182A8 /* GoodNightView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodNightView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D243229B29E555CE009182A8 /* FirstAppApp.swift */,
 				D243229D29E555CE009182A8 /* ContentView.swift */,
+				D24322A929E55796009182A8 /* GoodNightView.swift */,
 				D243229F29E555D0009182A8 /* Assets.xcassets */,
 				D24322A129E555D0009182A8 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D24322AA29E55796009182A8 /* GoodNightView.swift in Sources */,
 				D243229E29E555CE009182A8 /* ContentView.swift in Sources */,
 				D243229C29E555CE009182A8 /* FirstAppApp.swift in Sources */,
 			);
